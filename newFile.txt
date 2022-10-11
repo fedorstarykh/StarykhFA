@@ -1,2 +1,2 @@
-new file to commit
 changed file for new commit
+changed again deleted string 1
